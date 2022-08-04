@@ -1,0 +1,17 @@
+body{
+    background-color: rgb(164, 218, 235);
+}
+h1{
+    color: brown;
+}
+h3{
+    color: rgb(230, 164, 23);
+}#imginit{
+    width: 625px;
+    height: 400px;
+    float: right;
+}.esquerda{
+    float: left;
+    padding: 10;
+    margin-left: 10px;
+}
